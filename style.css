@@ -1,0 +1,55 @@
+
+
+.card {
+    width: 350px;
+     height: 630px;
+     border: 2px solid black;
+}
+
+
+.card-top {
+width: 100%;
+height: 40%;
+background-color: #7500FC;
+}
+
+.card-botton {
+     width: 100%;
+     height: 60%;
+     background-color: white;
+     text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-logo {
+    width: 100px;
+    border: 4px solid red; 
+    border-radius: 150px;
+    margin-top: -50px;
+}
+.card-tittle {
+    font-size: 24px;
+    font-weight: 600;
+font-family: 'Arima', cursive;
+}
+.card-job {
+    color: #7500FC;
+font-family: 'Oswald', sans-serif;
+}
+.card-text {
+font-family: 'Splash', cursive;
+}
+.card-btn {
+    background-color: #7500FC;
+    padding: 12px 30px 12px 30px;
+     width: 50%;
+    margin:auto;
+    text-decoration: none;
+    color: white;
+    border-radius: 40px;
+     
+}
+.card-btn:hover {
+    background-color: white;
+    color:#7500FC;
+}
